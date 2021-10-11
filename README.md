@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gteu&show_icons=true&count_private=true" align = "center"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gteu&show_icons=true&count_private=true&layout=compact" align = "center"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gteu&hide=Jupyter%20Notebook" align = "center"/>
