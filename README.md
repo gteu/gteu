@@ -1,14 +1,12 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gteu&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gteu&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gteu&show_icons=true&count_private=true&layout=compact" align = "center"/>
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gteu&hide=Jupyter%20Notebook" align = "center"/>
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gteu&show_icons=true&count_private=true&layout=compact" align = "center"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gteu&hide=Jupyter%20Notebook" align = "center"/>
+</a>
 
 <!--
 **gteu/gteu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
