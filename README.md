@@ -2,14 +2,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gteu&show_icons=true&count_private=true&layout=compact" align = "center"/>
 </a>
 
-<!-- /言語割合も表示するとき -->
+<!-- 言語割合も表示するとき
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gteu&show_icons=true&count_private=true&layout=compact" align = "center"/>
 </a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gteu&hide=Jupyter%20Notebook" align = "center"/>
-</a> -->
-
+</a>
+ -->
 <!--
 **gteu/gteu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
